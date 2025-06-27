@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+If you turn on the correct switches, it will turn on a light and it show the letter E.
 
 ## How to test
 
-Explain how to use your project
+Switch on the correct switches. 
 
 ## External hardware
 
