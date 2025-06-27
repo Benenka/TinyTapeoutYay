@@ -16,5 +16,4 @@ If you turn on the correct switches, it will turn on a light and it show the let
 Switch on the correct switches. 
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Probably none
