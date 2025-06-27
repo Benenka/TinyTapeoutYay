@@ -16,4 +16,4 @@ If you turn on the correct switches, it will turn on a light and it show the let
 Switch on the correct switches. 
 
 ## External hardware
-Probably none
+Most likely none, I think.
